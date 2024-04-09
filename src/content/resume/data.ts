@@ -1,23 +1,23 @@
 export const resume: ResumeJson = {
-	avatarUrl: "/wai-lin/profile/transparent-background.png",
-	name: "Wai Lin Aung",
-	positionAppliedFor: "Frontend Developer",
+	avatarUrl: "/hndar/profile/transparent-background.png",
+	name: "Htet Nandar",
+	positionAppliedFor: "Product Manager",
 
 	// NOTE: Ideal character count is `550` characters.
 	biography: `Hi, I'm a nerdy Frontend Developer who wants to be a Frontend Engineer. I've over 5+ years experience in Software Development.
 I can collaborate with every fields of professions and willing to learn new things. Occasionally listen to Tech Talks as a hobby. I'm currently into the Go Lang and Functional Programming world.`,
 
 	personalInfo: {
-		dateOfBirth: "20, 05, 1998",
+		dateOfBirth: "25.10.1997",
 		nationality: "Myanmar",
-		religion: "Buddhism",
+		religion: "Buddhist",
 		maritalStatus: "single",
-		address: "",
+		address: "No. (206/24), Yanshin Township, Yangon, Myanmar.",
 	},
 
 	contactInfo: {
-		phone: ["+959252151445"],
-		email: ["wailin.wilbert@gmail.com"],
+		phone: ["+959451367744"],
+		email: ["htetnandar25@gmail.com"],
 		links: [
 			{
 				label: "https://wai-lin.github.io/wai-lin",

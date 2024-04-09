@@ -1,5 +1,5 @@
-# Hello 👋! I'm Wai Lin Aung.
+# Hello 👋! I'm Htet Nandar.
 
-I build beautiful and performant web experiences. Also create some JS libraries as a hobby.
+I am so pretty.
 
 Check more about me [here](https://wai-lin.github.io/wai-lin/).
