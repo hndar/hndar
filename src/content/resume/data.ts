@@ -1,11 +1,10 @@
 export const resume: ResumeJson = {
-	avatarUrl: "/hndar/profile/transparent-background.png",
+	avatarUrl: "/hndar/profile/profile.png",
 	name: "Htet Nandar",
 	positionAppliedFor: "Product Manager",
 
 	// NOTE: Ideal character count is `550` characters.
-	biography: `Hi, I'm a nerdy Frontend Developer who wants to be a Frontend Engineer. I've over 5+ years experience in Software Development.
-I can collaborate with every fields of professions and willing to learn new things. Occasionally listen to Tech Talks as a hobby. I'm currently into the Go Lang and Functional Programming world.`,
+	biography: `With a solid background in product management, I have successfully led various initiatives such as loyalty campaigns and app launches across multiple countries. My experience includes overseeing product roadmaps and conducting user acceptance testing, reflecting my commitment to driving projects forward with precision and dedication.`,
 
 	personalInfo: {
 		dateOfBirth: "25.10.1997",

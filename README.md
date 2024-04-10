@@ -1,5 +1,5 @@
 # Hello 👋! I'm Htet Nandar.
 
-I am so pretty and blah blah blah.
+Hey there. 
 
-Check more about me [here](https://wai-lin.github.io/wai-lin/).
+Feeling curious about me? Click [here](https://hndar.github.io/hndar/) to uncover the mystery, explore my world and learn about my passions. Don't miss out on the fun - click away!
