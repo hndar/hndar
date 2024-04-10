@@ -1,4 +1,4 @@
-# Hello 👋! I'm Htet Nandar.
+# Hello 👋! I'm Htet Nandar and you can call me Nora.
 
 Hey there. 
 
