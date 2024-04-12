@@ -49,39 +49,45 @@ export const resume: ResumeJson = {
 	educationHistory: [
 		{
 			schoolName: "University of Yangon",
-			educationTitle: "Bachelor of Arts (International Relations)",
-			fromYear: "2014",
-			toYear: "2018",
-			note: "",
+			history: [
+				{
+					educationTitle: "Bachelor of Arts (International Relations)",
+					fromYear: "2014",
+					toYear: "2018",
+				},
+			]
 		},
 		{
 			schoolName: "Project Management Institute (PMI)",
-			educationTitle: "Certificate of Completion - Become a Product Manager",
-			fromYear: "2023",
-			toYear: "",
-			note: "",
+			history: [
+				{
+					educationTitle: "Certificate of Completion - Become a Product Manager",
+					fromYear: "2023",
+					toYear: "",
+				},
+			]
+	
 		},
 		{
 			schoolName: "Product School",
-			educationTitle: "Certificate of Completion - Product Led Growth Micro-Certification",
-			fromYear: "2023",
-			toYear: "",
-			note: "",
-		},
-		{
-			schoolName: "Product School",
-			educationTitle: "Certificate of Completion - Product Strategy Micro-Certification",
-			fromYear: "2023",
-			toYear: "",
-			note: "",
-		},
-		{
-			schoolName: "Product School",
-			educationTitle: "Certificate of Completion - Product Analytics Micro-Certification",
-			fromYear: "2023",
-			toYear: "",
-			note: "",
-		},
+			history: [
+				{
+					educationTitle: "Certificate of Completion - Product Led Growth Micro-Certification",
+					fromYear: "2023",
+					toYear: "",
+				},
+				{
+					educationTitle: "Certificate of Completion - Product Strategy Micro-Certification",
+					fromYear: "2023",
+					toYear: "",
+				},
+				{
+					educationTitle: "Certificate of Completion - Product Analytics Micro-Certification",
+					fromYear: "2023",
+					toYear: "",
+				},
+			]
+		}
 	],
 
 	spokenLanguage: [
@@ -94,6 +100,8 @@ export const resume: ResumeJson = {
 			proficiency: "Intermediate",
 		},
 	],
+
+	references: [],
 
 	workExperiences: [
 		{
@@ -144,16 +152,29 @@ export const resume: ResumeJson = {
 		{
 			companyName: "Myanmar Marketing Research & Development Limited",
 			companyUrl: "https://www.mmrdrs.com/",
-			assignedPosition: "Training & Development Manager, International Sales Executive",
-			fromDate: "March 2019",
+			assignedPosition: "Training & Development Manager",
+			fromDate: "December 2020",
 			toDate: "January 2021",
 			links: [
 				"https://www.mmrdrs.com/",
 			],
 			descriptions: [
-				"Main Responsibilities - Sales, Sales Management, Product Development, Sales Staff Skill Development",
-				"Participated in generating new ideas for Product Development from sales perspective",
+				"Main Responsibilities - Sales Management, Sales Staff Skill Development",
 				"In charge of leading and managing a Digital Ads Sales Team",
+			],
+		},
+		{
+			companyName: "Myanmar Marketing Research & Development Limited",
+			companyUrl: "https://www.mmrdrs.com/",
+			assignedPosition: "International Sales Executive",
+			fromDate: "March 2019",
+			toDate: "November 2020",
+			links: [
+				"https://www.mmrdrs.com/",
+			],
+			descriptions: [
+				"Main Responsibilities - Sales, Product Development",
+				"Participated in generating new ideas for Product Development from sales perspective",
 			],
 		},
 	],
