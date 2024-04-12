@@ -16,7 +16,7 @@ const { workExperience } = Astro.props
 		<span>{workExperience.assignedPosition}</span>
 	</h6>
 	<p class="flex items-center justify-between">
-		<a target="_blank" href={workExperience.companyUrl} class="group hover:text-blue-600">
+		<a target="_blank" href={workExperience.companyUrl} class="group hover:text-rose-700">
 			<span>{workExperience.companyName}</span>
 			<i class="fa-solid fa-link opacity-0 group-hover:opacity-50"></i>
 		</a>
@@ -34,7 +34,7 @@ const { workExperience } = Astro.props
 				<BaseLink
 					href={link}
 					targetBlank
-					class="pr-2 text-blue-600 border-r border-blue-400 hover:underline last-of-type:border-r-0"
+					class="pr-2 text-rose-600 border-r border-rose-400 hover:underline last-of-type:border-r-0"
 				>
 					{link}
 				</BaseLink>
