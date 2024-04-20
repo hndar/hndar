@@ -4,7 +4,7 @@ export const resume: ResumeJson = {
 	positionAppliedFor: "Product Manager",
 
 	// NOTE: Ideal character count is `550` characters.
-	biography: `With a solid background in product management, I have successfully led various initiatives such as Loyalty Rewards System and app launches across multiple countries. My experience includes overseeing product roadmaps and conducting user acceptance testing, reflecting my commitment to driving projects forward with precision and dedication.`,
+	biography: `Trained in International Relations, I've transitioned to excel in product management, driven by a passion for innovation. Through self-learning and mentorship, I've honed skills in leading teams and crafting tailored solutions. Embracing challenges as growth opportunities, I thrive on continuous learning and resilience in the dynamic digital landscape. Committed to excellence and making meaningful contributions.`,
 
 	personalInfo: {
 		dateOfBirth: "25.10.1997",
