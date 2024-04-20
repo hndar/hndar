@@ -4,14 +4,14 @@ export const resume: ResumeJson = {
 	positionAppliedFor: "Product Manager",
 
 	// NOTE: Ideal character count is `550` characters.
-	biography: `With a solid background in product management, I have successfully led various initiatives such as loyalty campaigns and app launches across multiple countries. My experience includes overseeing product roadmaps and conducting user acceptance testing, reflecting my commitment to driving projects forward with precision and dedication.`,
+	biography: `With a solid background in product management, I have successfully led various initiatives such as Loyalty Rewards System and app launches across multiple countries. My experience includes overseeing product roadmaps and conducting user acceptance testing, reflecting my commitment to driving projects forward with precision and dedication.`,
 
 	personalInfo: {
 		dateOfBirth: "25.10.1997",
 		nationality: "Myanmar",
 		religion: "Buddhist",
 		maritalStatus: "single",
-		address: "No. (206/24), Yanshin Township, Yangon, Myanmar.",
+		address: "No. (206/24), Yanshin Street, Yankin Township, Yangon, Myanmar.",
 	},
 
 	contactInfo: {
@@ -19,31 +19,34 @@ export const resume: ResumeJson = {
 		email: ["htetnandar25@gmail.com"],
 		links: [
 			{
-				label: "https://hndar.github.io/hndar",
+				label: "hndar.github.io/hndar",
 				url: "https://hndar.github.io/hndar",
 			},
 			{
 				icon: "fa-brands fa-linkedin",
-				label: "www.linkedin.com/in/htet-nandar-dar7",
+				label: "Htet Nandar",
 				url: "https://www.linkedin.com/in/htet-nandar-dar7/",
 			},
 		],
 	},
 
 	skills: [
-		"JIRA",
-		"Trello",
-		"Basecamp",
-		"Figma",
-		"Google Suite",
-		"Microsoft Office",
-		"Firebase",
+		"Cross-functional Collaboration,",
+		"Communication,",
+		"Project Management,",
+		"Adaptibility,",
+		"Problem Solving,",
+		"Stress Management,",
+		"Managing Performance.",
 		"",
-		"Stress Management",
-		"Analytical Thinking",
-		"Customer Orientation",
-		"Managing Performance",
-		"Initiative & Thoroughness",
+		"JIRA,",
+		"Confluence,",
+		"Trello,",
+		"Basecamp,",
+		"Figma,",
+		"Firebase,",
+		"Google Suite,",
+		"Microsoft Office.",
 	],
 
 	educationHistory: [
@@ -54,6 +57,51 @@ export const resume: ResumeJson = {
 					educationTitle: "Bachelor of Arts (International Relations)",
 					fromYear: "2014",
 					toYear: "2018",
+				},
+			]
+		},
+		{
+			schoolName: "Nanyeng International College",
+			history: [
+				{
+					educationTitle: "Certificate of Completion - Certified Strategic Manager (IQN, UK)",
+					fromYear: "May 2019",
+					toYear: "September 2019",
+				},
+			]
+		},
+		{
+			schoolName: "Google",
+			history: [
+				{
+					educationTitle: "Certificate of Completion - Foundations of Project Management",
+					fromYear: "2023",
+					toYear: "",
+				},
+				{
+					educationTitle: "Certificate of Completion - Agile Project Management",
+					fromYear: "2023",
+					toYear: "",
+				},
+			]
+		},
+		{
+			schoolName: "University of Virginia",
+			history: [
+				{
+					educationTitle: "Certificate of Completion - Digital Product Management: Modern Fundamentals",
+					fromYear: "2023",
+					toYear: "",
+				},
+			]
+		},
+		{
+			schoolName: "IBM",
+			history: [
+				{
+					educationTitle: "Certificate of Completion (with Honors) - Introduction to Software Engineering",
+					fromYear: "2023",
+					toYear: "",
 				},
 			]
 		},
@@ -86,6 +134,16 @@ export const resume: ResumeJson = {
 					fromYear: "2023",
 					toYear: "",
 				},
+				{
+					educationTitle: "Certificate of Completion - Product Roadmapping Micro-Certification",
+					fromYear: "2024",
+					toYear: "",
+				},
+				{
+					educationTitle: "Certificate of Completion - Product Launches Micro-Certification",
+					fromYear: "2024",
+					toYear: "",
+				},
 			]
 		}
 	],
@@ -93,11 +151,11 @@ export const resume: ResumeJson = {
 	spokenLanguage: [
 		{
 			label: "Burmese",
-			proficiency: "Fluent",
+			proficiency: "Native",
 		},
 		{
 			label: "English",
-			proficiency: "Intermediate",
+			proficiency: "Advanced (C1)",
 		},
 	],
 
