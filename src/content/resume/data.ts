@@ -1,5 +1,5 @@
 export const resume: ResumeJson = {
-	avatarUrl: "/hndar/profile/profile.png",
+	avatarUrl: "/hndar/profile/profile.jpeg",
 	name: "Htet Nandar",
 	positionAppliedFor: "Product Manager",
 
