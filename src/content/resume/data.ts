@@ -51,72 +51,6 @@ export const resume: ResumeJson = {
 
 	educationHistory: [
 		{
-			schoolName: "University of Yangon",
-			history: [
-				{
-					educationTitle: "Bachelor of Arts (International Relations)",
-					fromYear: "2014",
-					toYear: "2018",
-				},
-			]
-		},
-		{
-			schoolName: "Nanyeng International College",
-			history: [
-				{
-					educationTitle: "Certificate of Completion - Certified Strategic Manager (IQN, UK)",
-					fromYear: "May 2019",
-					toYear: "September 2019",
-				},
-			]
-		},
-		{
-			schoolName: "Google",
-			history: [
-				{
-					educationTitle: "Certificate of Completion - Foundations of Project Management",
-					fromYear: "2023",
-					toYear: "",
-				},
-				{
-					educationTitle: "Certificate of Completion - Agile Project Management",
-					fromYear: "2023",
-					toYear: "",
-				},
-			]
-		},
-		{
-			schoolName: "University of Virginia",
-			history: [
-				{
-					educationTitle: "Certificate of Completion - Digital Product Management: Modern Fundamentals",
-					fromYear: "2023",
-					toYear: "",
-				},
-			]
-		},
-		{
-			schoolName: "IBM",
-			history: [
-				{
-					educationTitle: "Certificate of Completion (with Honors) - Introduction to Software Engineering",
-					fromYear: "2023",
-					toYear: "",
-				},
-			]
-		},
-		{
-			schoolName: "Project Management Institute (PMI)",
-			history: [
-				{
-					educationTitle: "Certificate of Completion - Become a Product Manager",
-					fromYear: "2023",
-					toYear: "",
-				},
-			]
-	
-		},
-		{
 			schoolName: "Product School",
 			history: [
 				{
@@ -145,7 +79,72 @@ export const resume: ResumeJson = {
 					toYear: "",
 				},
 			]
-		}
+		},
+		{
+			schoolName: "Project Management Institute (PMI)",
+			history: [
+				{
+					educationTitle: "Certificate of Completion - Become a Product Manager",
+					fromYear: "2023",
+					toYear: "",
+				},
+			]
+		},
+		{
+			schoolName: "IBM",
+			history: [
+				{
+					educationTitle: "Certificate of Completion (with Honors) - Introduction to Software Engineering",
+					fromYear: "2023",
+					toYear: "",
+				},
+			]
+		},
+		{
+			schoolName: "University of Virginia",
+			history: [
+				{
+					educationTitle: "Certificate of Completion - Digital Product Management: Modern Fundamentals",
+					fromYear: "2023",
+					toYear: "",
+				},
+			]
+		},
+		{
+			schoolName: "Google",
+			history: [
+				{
+					educationTitle: "Certificate of Completion - Foundations of Project Management",
+					fromYear: "2023",
+					toYear: "",
+				},
+				{
+					educationTitle: "Certificate of Completion - Agile Project Management",
+					fromYear: "2023",
+					toYear: "",
+				},
+			]
+		},
+		{
+			schoolName: "Nanyeng International College",
+			history: [
+				{
+					educationTitle: "Certificate of Completion - Certified Strategic Manager (IQN, UK)",
+					fromYear: "May 2019",
+					toYear: "September 2019",
+				},
+			]
+		},
+		{
+			schoolName: "University of Yangon",
+			history: [
+				{
+					educationTitle: "Bachelor of Arts (International Relations)",
+					fromYear: "2014",
+					toYear: "2018",
+				},
+			]
+		},
 	],
 
 	spokenLanguage: [
