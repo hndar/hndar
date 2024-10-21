@@ -1,7 +1,7 @@
 export const resume: ResumeJson = {
 	avatarUrl: "/hndar/profile/profile.jpeg",
 	name: "Htet Nandar",
-	positionAppliedFor: "Product Manager",
+	positionAppliedFor: "Product Owner",
 
 	// NOTE: Ideal character count is `550` characters.
 	biography: `Trained in International Relations, I've transitioned to excel in product management, driven by a passion for innovation. Through self-learning and mentorship, I've honed skills in leading teams and crafting tailored solutions. Embracing challenges as growth opportunities, I thrive on continuous learning and resilience in the dynamic digital landscape. Committed to excellence and making meaningful contributions.`,
@@ -11,11 +11,11 @@ export const resume: ResumeJson = {
 		nationality: "Myanmar",
 		religion: "Buddhist",
 		maritalStatus: "single",
-		address: "No. (206/24), Yanshin Street, Yankin Township, Yangon, Myanmar.",
+		address: "Huai Khwang, Bangkok, Thailand",
 	},
 
 	contactInfo: {
-		phone: ["+959451367744"],
+		phone: ["+66936030606"],
 		email: ["htetnandar25@gmail.com"],
 		links: [
 			{
@@ -54,7 +54,17 @@ export const resume: ResumeJson = {
 			schoolName: "Product School",
 			history: [
 				{
-					educationTitle: "Certificate of Completion - Product Led Growth Micro-Certification",
+					educationTitle: "Certificate of Completion - Product Launches Micro-Certification",
+					fromYear: "2024",
+					toYear: "",
+				},
+				{
+					educationTitle: "Certificate of Completion - Product Roadmapping Micro-Certification",
+					fromYear: "2024",
+					toYear: "",
+				},
+				{
+					educationTitle: "Certificate of Completion - Product Analytics Micro-Certification",
 					fromYear: "2023",
 					toYear: "",
 				},
@@ -64,18 +74,8 @@ export const resume: ResumeJson = {
 					toYear: "",
 				},
 				{
-					educationTitle: "Certificate of Completion - Product Analytics Micro-Certification",
+					educationTitle: "Certificate of Completion - Product Led Growth Micro-Certification",
 					fromYear: "2023",
-					toYear: "",
-				},
-				{
-					educationTitle: "Certificate of Completion - Product Roadmapping Micro-Certification",
-					fromYear: "2024",
-					toYear: "",
-				},
-				{
-					educationTitle: "Certificate of Completion - Product Launches Micro-Certification",
-					fromYear: "2024",
 					toYear: "",
 				},
 			]
@@ -172,7 +172,10 @@ export const resume: ResumeJson = {
 				"Spearheaded the conception and implementation of monthly cashback campaigns in collaboration with cross-functional teams, including Marketing and Tech, resulting in increased customer engagement and retention by 10% every month",
 				"Directed the execution of monthly cashback and loyalty points campaigns, leveraging data-driven insights to optimize campaign performance and drive customer loyalty",
 				"Tasked with the development and management of innovative gamification products within the loyalty management system, enhancing user experience and driving product growth",
-				"Developed the Reporting portal for Merchants/ Partners, overseeing the entire process from ideation to launch, including documentation and testing"
+				"Developed the Reporting portal for Merchants/ Partners, overseeing the entire process from ideation to launch, including documentation and testing",
+				"Led the launch and post-launch enhancement of a major gamification product, improving user experience with instant prize credit functionality",
+				"Contributed to the successful rollout of rewards and cashback programs, ensuring smooth implementation and adoption",
+				"Trained teams across the organization on key product features and processes, and regularly reviewed system performance to optimize user experience"
 			],
 		},
 
