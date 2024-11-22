@@ -32,7 +32,7 @@ declare global {
 
 		spokenLanguage: Array<{
 			label: string
-			proficiency: "Beginner" | "Intermediate" | "Fluent" | "Native" | "Advanced (C1)"
+			proficiency: "Beginner" | "Intermediate" | "Fluent" | "Native"
 		}>
 
 		educationHistory: Array<{
