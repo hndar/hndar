@@ -37,5 +37,10 @@ import BaseLink from "./BaseLink.astro"
 				</BaseLink>
 			))
 		}
+
+		<p class="flex items-center gap-4">
+			<i class="fa-solid fa-location-dot size-4 flex-none" />
+			<span class="flex-auto">{resume.contactInfo.address}</span>
+		</p>
 	</div>
 </BaseArticle>

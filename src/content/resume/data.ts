@@ -15,6 +15,7 @@ export const resume: ResumeJson = {
 	},
 
 	contactInfo: {
+		address: "Huai Khwang, Bangkok, Thailand",
 		phone: ["+66936030606"],
 		email: ["htetnandar25@gmail.com"],
 		links: [

@@ -20,6 +20,7 @@ declare global {
 		}
 
 		contactInfo: {
+			address: string
 			email: string[]
 			phone: string[]
 			links: Array<{
