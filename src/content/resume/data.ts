@@ -155,7 +155,11 @@ export const resume: ResumeJson = {
 		},
 		{
 			label: "English",
-			proficiency: "Advanced (C1)",
+			proficiency: "Intermediate",
+		},
+		{
+			label: "Thai",
+			proficiency: "Beginner",
 		},
 	],
 
