@@ -1,10 +1,10 @@
 export const resume: ResumeJson = {
 	avatarUrl: "/hndar/profile/profile.jpeg",
-	name: "Htet Nandar",
-	positionAppliedFor: "Product Owner",
+	name: "Htet Nandar @ Nora",
+	positionAppliedFor: "Product Owner | Product Manager",
 
 	// NOTE: Ideal character count is `550` characters.
-	biography: `Trained in International Relations, I've transitioned to excel in product management, driven by a passion for innovation. Through self-learning and mentorship, I've honed skills in leading teams and crafting tailored solutions. Embracing challenges as growth opportunities, I thrive on continuous learning and resilience in the dynamic digital landscape. Committed to excellence and making meaningful contributions.`,
+	biography: `A passionate Product Owner with expertise in driving product roadmaps, enhancing user experiences, and executing data-driven strategies. With a track record of managing impactful campaigns and collaborating across teams, I specialize in digital marketing, KOL marketing, and cashback solutions. Proficient in tools like JIRA, Figma, Firebase, and Google Suite, I thrive on creating meaningful solutions that drive growth. Feel free to explore my projects and connect!`,
 
 	personalInfo: {
 		dateOfBirth: "25.10.1997",
@@ -54,6 +54,16 @@ export const resume: ResumeJson = {
 		{
 			schoolName: "Product School",
 			history: [
+				{
+					educationTitle: "Certificate of Completion - Artificial Intelligence Micro-Certification",
+					fromYear: "2024",
+					toYear: "",
+				},
+				{
+					educationTitle: "Certificate of Completion - Product Discovery Micro-Certification",
+					fromYear: "2024",
+					toYear: "",
+				},
 				{
 					educationTitle: "Certificate of Completion - Product Launches Micro-Certification",
 					fromYear: "2024",
@@ -169,7 +179,7 @@ export const resume: ResumeJson = {
 		{
 			companyName: "Capital Connect Limited of Capital Diamond Star Group (CDSG)",
 			companyUrl: "https://citizens.com.mm/",
-			assignedPosition: "Product Owner (Senior Associate)",
+			assignedPosition: "Senior Product Owner",
 			fromDate: "June 2023",
 			toDate: "Present",
 			links: ["https://citizens.com.mm/"],
